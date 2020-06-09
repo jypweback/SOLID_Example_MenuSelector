@@ -1,0 +1,7 @@
+C:\workspace\trenbe\MenuSelector\MenuSelector\bin\Debug\MenuSelector.exe.config
+C:\workspace\trenbe\MenuSelector\MenuSelector\bin\Debug\MenuSelector.exe
+C:\workspace\trenbe\MenuSelector\MenuSelector\bin\Debug\MenuSelector.pdb
+C:\workspace\trenbe\MenuSelector\MenuSelector\obj\Debug\MenuSelector.csprojAssemblyReference.cache
+C:\workspace\trenbe\MenuSelector\MenuSelector\obj\Debug\MenuSelector.csproj.CoreCompileInputs.cache
+C:\workspace\trenbe\MenuSelector\MenuSelector\obj\Debug\MenuSelector.exe
+C:\workspace\trenbe\MenuSelector\MenuSelector\obj\Debug\MenuSelector.pdb
